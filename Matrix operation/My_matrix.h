@@ -1,15 +1,3 @@
-/* My_matrix.h
-
-Header file for the class My_matrix
-
-Write your name and UIN here
-
-
-Name: Ankur Khetan
-UIN:827000072
-
-*/
-
 #include <iostream>
 #include <exception>
 
