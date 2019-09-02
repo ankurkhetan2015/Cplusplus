@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Double Linked List operation"
+    "\\Double Linked List operation",
+    "\\Templated Double Linked List operation"
   ],
-  "SelectedNode": "\\Double Linked List operation",
+  "SelectedNode": "\\Templated Double Linked List operation\\TemplateDoublyLinkedList.h",
   "PreviewInSolutionExplorer": false
 }
